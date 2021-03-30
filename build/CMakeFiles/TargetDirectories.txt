@@ -1,0 +1,12 @@
+/media/ulsee/SSD/stereoVision/build/CMakeFiles/rebuild_cache.dir
+/media/ulsee/SSD/stereoVision/build/CMakeFiles/edit_cache.dir
+/media/ulsee/SSD/stereoVision/build/imageBasics/CMakeFiles/rebuild_cache.dir
+/media/ulsee/SSD/stereoVision/build/imageBasics/CMakeFiles/edit_cache.dir
+/media/ulsee/SSD/stereoVision/build/imageBasics/CMakeFiles/imageBasics.dir
+/media/ulsee/SSD/stereoVision/build/imageBasics/CMakeFiles/undistortImage.dir
+/media/ulsee/SSD/stereoVision/build/stereo/CMakeFiles/rebuild_cache.dir
+/media/ulsee/SSD/stereoVision/build/stereo/CMakeFiles/stereoVision.dir
+/media/ulsee/SSD/stereoVision/build/stereo/CMakeFiles/edit_cache.dir
+/media/ulsee/SSD/stereoVision/build/rgbd/CMakeFiles/rebuild_cache.dir
+/media/ulsee/SSD/stereoVision/build/rgbd/CMakeFiles/joinMap.dir
+/media/ulsee/SSD/stereoVision/build/rgbd/CMakeFiles/edit_cache.dir
